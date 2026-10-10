@@ -23,7 +23,7 @@ export const profile = {
   ],
   projects: [
     {
-      title: { ru: 'Интернет-магазин test deploy', en: 'E-commerce Store' },
+      title: { ru: 'Интернет-магазин test deploy 2', en: 'E-commerce Store' },
       description: {
         ru: 'Одностраничный магазин с корзиной, фильтрами и оплатой. Демонстрационный проект.',
         en: 'Single-page store with cart, filters and checkout. Demo project.',
